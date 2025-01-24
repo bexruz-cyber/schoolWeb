@@ -1,0 +1,46 @@
+<svg width="70.000000" height="76.000000" viewBox="0 0 70 76" fill="none" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+	<desc>
+			Created with Pixso.
+	</desc>
+	<defs>
+		<clipPath id="clip2696_739">
+			<rect id="Frame" width="32.000000" height="27.341255" transform="translate(19.000000 24.330078)" fill="white" fill-opacity="0"/>
+		</clipPath>
+		<clipPath id="clip2696_738">
+			<rect id="Frame" width="32.000000" height="27.341255" transform="translate(19.000000 24.330078)" fill="white" fill-opacity="0"/>
+		</clipPath>
+		<clipPath id="clip2696_742">
+			<rect id="Frame" width="16.875000" height="7.135251" transform="translate(26.562500 35.800781)" fill="white" fill-opacity="0"/>
+		</clipPath>
+		<clipPath id="clip2696_741">
+			<rect id="Frame" width="16.875000" height="7.135251" transform="translate(26.562500 35.800781)" fill="white" fill-opacity="0"/>
+		</clipPath>
+		<clipPath id="clip2696_737">
+			<rect id="001-graduation-hat" width="32.000000" height="32.000000" transform="translate(19.000000 22.000000)" fill="white" fill-opacity="0"/>
+		</clipPath>
+		<clipPath id="clip2696_736">
+			<rect id="icon cool-icon-n21" width="32.000000" height="32.000000" transform="translate(19.000000 22.000000)" fill="white" fill-opacity="0"/>
+		</clipPath>
+		<clipPath id="clip2685_5171">
+			<rect id="fixed-width" rx="10.000000" width="70.000000" height="76.000000" fill="white" fill-opacity="0"/>
+		</clipPath>
+	</defs>
+	<rect id="fixed-width" rx="10.000000" width="70.000000" height="76.000000" fill="#F9FDFF" fill-opacity="1.000000"/>
+	<g clip-path="url(#clip2685_5171)">
+		<g clip-path="url(#clip2696_736)">
+			<rect id="001-graduation-hat" width="32.000000" height="32.000000" transform="translate(19.000000 22.000000)" fill="#FFFFFF" fill-opacity="0"/>
+			<g clip-path="url(#clip2696_737)">
+				<g clip-path="url(#clip2696_738)">
+					<g clip-path="url(#clip2696_739)">
+						<path id="Vector" d="M51 43.875C51 42.6543 50.2148 41.623 49.125 41.2344L49.125 31.5234L51 30.75L35 24.3301L19 30.75L35 37.1699L47.25 32.2754L47.25 41.2344C46.1602 41.623 45.375 42.6543 45.375 43.875C45.375 44.9922 46.0352 45.9512 46.9805 46.4043L45.4238 51.0781L47.2012 51.6719L48.1875 48.7129L49.1738 51.6719L50.9512 51.0781L49.3945 46.4043C50.3398 45.9512 51 44.9922 51 43.875Z" fill="#FFC652" fill-opacity="1.000000" fill-rule="nonzero"/>
+					</g>
+				</g>
+				<g clip-path="url(#clip2696_741)">
+					<g clip-path="url(#clip2696_742)">
+						<path id="Vector" d="M35 39.1895L26.5625 35.8008L26.5625 38.248C26.5625 40.9219 30.1895 42.9355 35 42.9355C39.8105 42.9355 43.4375 40.9219 43.4375 38.248L43.4375 35.8008L35 39.1895Z" fill="#FFC652" fill-opacity="1.000000" fill-rule="nonzero"/>
+					</g>
+				</g>
+			</g>
+		</g>
+	</g>
+</svg>

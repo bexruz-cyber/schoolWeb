@@ -1,0 +1,27 @@
+<svg width="70.000000" height="76.000000" viewBox="0 0 70 76" fill="none" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+	<desc>
+			Created with Pixso.
+	</desc>
+	<defs>
+		<clipPath id="clip2696_725">
+			<rect id="012-blackboards" width="32.000000" height="32.000000" transform="translate(19.000000 22.000000)" fill="white" fill-opacity="0"/>
+		</clipPath>
+		<clipPath id="clip2696_724">
+			<rect id="icon cool-icon-n2" width="32.000000" height="32.000000" transform="translate(19.000000 22.000000)" fill="white" fill-opacity="0"/>
+		</clipPath>
+		<clipPath id="clip2685_5131">
+			<rect id="fixed-width" rx="10.000000" width="70.000000" height="76.000000" fill="white" fill-opacity="0"/>
+		</clipPath>
+	</defs>
+	<rect id="fixed-width" rx="10.000000" width="70.000000" height="76.000000" fill="#B6D7FF" fill-opacity="1.000000"/>
+	<g clip-path="url(#clip2685_5131)">
+		<g clip-path="url(#clip2696_724)">
+			<rect id="012-blackboards" width="32.000000" height="32.000000" transform="translate(19.000000 22.000000)" fill="#FFFFFF" fill-opacity="0"/>
+			<g clip-path="url(#clip2696_725)">
+				<path id="Vector" d="M20.7148 42C20.7148 42.3145 20.9707 42.5703 21.2871 42.5703L48.7148 42.5703C49.0312 42.5703 49.2871 42.3145 49.2871 42L49.2871 24.2852L20.7148 24.2852L20.7148 42Z" fill="#E74040" fill-opacity="1.000000" fill-rule="nonzero"/>
+				<path id="Vector" d="M50.4277 22L19.5723 22C19.2559 22 19 22.2559 19 22.5723C19 22.8867 19.2559 23.1426 19.5723 23.1426L50.4277 23.1426C50.7441 23.1426 51 22.8867 51 22.5723C51 22.2559 50.7441 22 50.4277 22Z" fill="#E74040" fill-opacity="1.000000" fill-rule="nonzero"/>
+				<path id="Vector" d="M39.5723 51.7148L35.5723 51.7148L35.5723 44.8574L36.1426 44.8574C36.459 44.8574 36.7148 44.6016 36.7148 44.2871L36.7148 43.7148L33.2871 43.7148L33.2871 44.2871C33.2871 44.6016 33.543 44.8574 33.8574 44.8574L34.4297 44.8574L34.4297 51.7148L30.4297 51.7148C29.4824 51.7148 28.7148 52.4824 28.7148 53.4297L28.7148 54L41.2871 54L41.2871 53.4297C41.2871 52.4824 40.5195 51.7148 39.5723 51.7148Z" fill="#E74040" fill-opacity="1.000000" fill-rule="nonzero"/>
+			</g>
+		</g>
+	</g>
+</svg>
